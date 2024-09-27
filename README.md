@@ -6,7 +6,7 @@ Este repositório apresenta a modelagem de um banco de dados para mapear cliente
 
 ### Estrutura
 
-1. **Modelo Conceitual**: Tabelas de **cliente** e **produto** com relacionamento muitos-para-muitos.
+1. **Modelo Conceitual**: Tabelas de **cliente** e **produto**, e suas devidas relações e dependências.
   
 2. **Modelo Lógico**: Tabelas normalizadas: **cliente**, **tipo_cliente**, **produto**, **tipo_produto**, **diretor**, **cliente_produto**.
 
